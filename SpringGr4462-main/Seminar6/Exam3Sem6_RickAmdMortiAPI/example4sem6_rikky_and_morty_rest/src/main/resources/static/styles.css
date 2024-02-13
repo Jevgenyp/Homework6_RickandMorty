@@ -31,7 +31,11 @@ body {
     text-align: center;
     background-color: #61dafb;
     color: #282c34;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
+
 .character-card::after {
     content: '';
     display: block;
