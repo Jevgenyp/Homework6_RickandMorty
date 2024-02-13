@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/SpringGr4462-main/Seminar1/example3sem1" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar1/example1sem1/myapp/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar1/example2sem1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar2/empl4sem2CRUD/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar2/Eml1Sem1SpringCore/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar2/Exml2Sem2SpringCore/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar2/Exml3Sem2SpringCore/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar3/examole1sem3/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar3/example2sem3/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar3/example3sem3hometask/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar4/Exam1Sem4/Example1Seminar4/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar4/Exam2Sem4/Example2Seminar4/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar4/Example3Sem4/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar4/Java_Spring_Seminar_4-main/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar5/Exam1Sem5/spring_data_exam/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar5/Exam2Sem5/Java_Spring_Seminar_5-main/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar5/Exam3Sem5/sem5_springdata_ex2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar6/Exam1Sem6/ApiSeminar-task1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar6/Exam2Sem6/ApiSeminar-main/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar6/Scrum-board/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4462-main/Seminar6/Exam3Sem6_RickAmdMortiAPI/example4sem6_rikky_and_morty_rest/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

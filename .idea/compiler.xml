@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Exml2Sem2SpringCore" />
+        <module name="demo3" />
+        <module name="demo4" />
+        <module name="Example3Sem4" />
+        <module name="examole1sem3" />
+        <module name="empl4sem2CRUD" />
+        <module name="task_3" />
+        <module name="Eml1Sem1SpringCore" />
+        <module name="Scrum-board" />
+        <module name="example4sem6_rikky_and_morty_rest" />
+        <module name="example2sem1" />
+        <module name="myapp" />
+        <module name="Example2Seminar4" />
+        <module name="spring_data_exam" />
+        <module name="example3sem3hometask" />
+        <module name="example_2_seminar_5" />
+        <module name="example2sem3" />
+        <module name="Exml3Sem2SpringCore" />
+        <module name="sem5_springdata_ex2" />
+        <module name="Example1Seminar4" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Example1Seminar4" options="-parameters" />
+      <module name="Example2Seminar4" options="-parameters" />
+      <module name="Example3Sem4" options="-parameters" />
+      <module name="Scrum-board" options="-parameters" />
+      <module name="demo3" options="-parameters" />
+      <module name="demo4" options="-parameters" />
+      <module name="empl4sem2CRUD" options="-parameters" />
+      <module name="examole1sem3" options="-parameters" />
+      <module name="example2sem3" options="-parameters" />
+      <module name="example3sem3hometask" options="-parameters" />
+      <module name="example4sem6_rikky_and_morty_rest" options="-parameters" />
+      <module name="example_2_seminar_5" options="-parameters" />
+      <module name="sem5_springdata_ex2" options="-parameters" />
+      <module name="spring_data_exam" options="-parameters" />
+      <module name="task_3" options="-parameters" />
+    </option>
+  </component>
+</project>

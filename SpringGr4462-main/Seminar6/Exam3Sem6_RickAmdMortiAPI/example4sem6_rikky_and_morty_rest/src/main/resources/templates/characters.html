@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Character Details</title>
+    <link rel="stylesheet" type="text/css" th:href="@{/styles.css}" />
+</head>
+<body>
+<audio id="greetingAudio" src="/RickMorty.mp3"></audio>
+<h1 class="main-header">Characters</h1>
+<div class="character-grid">
+    <div th:each="character : ${characters}" class="character-card">
+        <h2 th:text="${character.name}"></h2>
+        <img th:src="${character.image}" alt="Character Image">
+        <a th:href="@{/character/{id}(id=${character.id})}" onclick="event.preventDefault(); document.getElementById('greetingAudio').play(); window.location=this.href;">View Details</a>
+    </div>
+</div>
+</body>
+</html>
